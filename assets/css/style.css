@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap);
+
+
+body, html  {
+    height: 100%;
+    margin: 0;
+    font-size: 24px;
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: black;
+}
+
+.navbar {
+    width: 100%;
+    padding: 40px;
+    font-size: 25px;
+}
+
+<!--Parallax-->
+
+.parallax1  {
+    background-image: url("../img/imageone.jpg");
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2  {
+    background-image: url('../img/imagetwo.jpg');
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3  {
+    background-image: url('../img/imagethree.jpg');
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax4  {
+    background-image: url('../img/imageone.jpg');
+    min-height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
